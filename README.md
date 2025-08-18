@@ -16,5 +16,5 @@
 
 
 
-![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/farelrasyah/activity-snake/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/farelrasyah/activity-snake/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 </div>
