@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Farel Rasyah</h1>
-<h3 align="center">Mobile Developer | API Whisperer 🔄 </h3>
+<h3 align="center">Mobile & Web Developer | API Whisperer 🔄 </h3>
 
 
 
