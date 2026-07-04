@@ -1,44 +1,150 @@
-
-<h1 align="center">Hi, I'm Farel Rasyah</h1>
-<h3 align="center">Mobile & Web Developer | API Whisperer 🔄 </h3>
-
-
-
 <div align="center">
+
+# Hi, I'm Farel Rasyah
+
+### Mobile & Web Developer | API Whisperer
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
+I create scalable web applications, mobile products, automation systems, and custom software solutions.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/API_Whisperer-00C853?style=for-the-badge&logo=postman&logoColor=white" alt="API Whisperer" /> <img src="https://img.shields.io/badge/Restful_API-FF6F00?style=for-the-badge&logo=json&logoColor=white" alt="Restful API" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<br>
 
-<!-- Backend / Framework -->
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<div align="center">
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<a href="https://farelrasyah.me">
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:farelrasyah87@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/farelrasyah">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/farelrasyah">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+</a>
 
-<!-- Language -->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</div>
 
-<!-- Database / ORM -->
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<br>
 
-<!-- DevOps / Platform -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</div>
+
+<div align="center">
+
+I design and build modern digital experiences that combine thoughtful design with scalable engineering. From interactive websites and mobile applications to backend architectures, APIs, and intelligent automation, I create software that is fast, reliable, and built to solve real-world problems with precision and lasting impact.
 
 
+</div>
 
+---
 
+## What I Do
 
+<div align="center">
+
+| Product Development | Engineering Solutions | Automation & Growth |
+|:---:|:---:|:---:|
+| Web Applications | API Development | Workflow Automation |
+| Mobile Applications | System Integration | Process Optimization |
+| SaaS Platforms | Custom Software | Internal Tools |
+| MVP Development | Cloud Infrastructure | Digital Transformation |
+
+</div>
+
+---
+
+## What I Build
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### Web Platforms
+
+Modern web applications designed for performance, scalability, and long-term maintainability.
+
+</td>
+
+<td width="33%" align="center">
+
+### Mobile Products
+
+Cross-platform mobile experiences built for real users and real business needs.
+
+</td>
+
+<td width="33%" align="center">
+
+### Automation Systems
+
+Intelligent workflows and integrations that reduce repetitive work and increase operational efficiency.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+## Technology
+
+<div align="center">
+
+### Core Technology Ecosystem
+
+<img src="https://skillicons.dev/icons?perline=10&i=html,css,sass,bootstrap,materialui,ts,js,react,nextjs,tailwind,redux,vite,flutter,dart,nodejs,express,nestjs,php,laravel,py,fastapi,golang,prisma,mysql,postgres,mongodb,sqlite,redis,firebase,supabase,docker,githubactions,vercel,netlify,cloudflare,graphql,apollo,git,github,figma,vscode,androidstudio,postman,notion,linux,ubuntu,nginx,bun,npm,pnpm,yarn,jest,playwright,vitest,cypress,storybook,electron,tauri,bash,powershell,md" />
+
+</div>
+
+---
+
+## Engineering Activity
+
+<p align="center">
+  <a href="https://github.com/farelrasyah">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=farelrasyah&theme=github-compact&radius=16&hide_border=true"
+      alt="My Activity Graph"
+    />
+  </a>
+</p>
+
+---
 ![snake gif](https://raw.githubusercontent.com/farelrasyah/activity-snake/output/github-contribution-grid-snake.svg)
-</div>
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://farelrasyah.me">
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:farelrasyah87@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/farelrasyah">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/farelrasyah">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<br><br>
+
+Software Development • Mobile Applications • Web Platforms • Automation • Digital Products
 
 </div>
+
+---
+
