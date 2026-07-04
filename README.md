@@ -120,31 +120,5 @@ Intelligent workflows and integrations that reduce repetitive work and increase 
 ![snake gif](https://raw.githubusercontent.com/farelrasyah/activity-snake/output/github-contribution-grid-snake.svg)
 ---
 
-## Connect
 
-<div align="center">
-
-<a href="https://farelrasyah.me">
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:farelrasyah87@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/farelrasyah">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/farelrasyah">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
-
-<br><br>
-
-Software Development • Mobile Applications • Web Platforms • Automation • Digital Products
-
-</div>
-
----
 
