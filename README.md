@@ -99,7 +99,7 @@ Intelligent workflows and integrations that reduce repetitive work and increase 
 
 ### Core Technology Ecosystem
 
-<img src="https://skillicons.dev/icons?perline=10&i=html,css,sass,bootstrap,materialui,ts,js,react,nextjs,tailwind,redux,vite,flutter,dart,nodejs,express,nestjs,php,laravel,py,fastapi,golang,prisma,mysql,postgres,mongodb,sqlite,redis,firebase,supabase,docker,githubactions,vercel,netlify,cloudflare,graphql,apollo,git,github,figma,vscode,androidstudio,postman,notion,linux,ubuntu,nginx,bun,npm,pnpm,yarn,jest,playwright,vitest,cypress,storybook,electron,tauri,bash,powershell,md" />
+<img src="https://skillicons.dev/icons?perline=10&i=html,css,sass,bootstrap,materialui,ts,js,react,nextjs,tailwind,redux,vite,flutter,dart,nodejs,express,nestjs,php,laravel,py,fastapi,golang,prisma,mysql,postgres,mongodb,sqlite,redis,firebase,supabase,docker,githubactions,vercel,cloudflare,graphql,git,github,figma,vscode,androidstudio,postman,linux,nginx,bun,npm,pnpm,electron,bash,powershell,md" />
 
 </div>
 
